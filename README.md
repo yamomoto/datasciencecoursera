@@ -1,2 +1,0 @@
-# datasciencecoursera
-Wy homework repo
